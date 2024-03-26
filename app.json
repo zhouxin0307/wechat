@@ -1,0 +1,51 @@
+{
+  "pages": [
+    "pages/shouye/shouye",
+    "pages/jiaoxue/jiaoxue",
+    "pages/keyan/keyan",
+    "pages/zixun/zixun",
+    "pages/guanyu/guanyu"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "南昌职业大学不欢迎你",
+    "navigationBarBackgroundColor": "#fff000"
+  },
+  "tabBar": {
+    "color": "#000",
+    "selectedColor": "#00f",
+    "backgroundColor": "#fff",
+    "list": [
+      {
+        "pagePath": "pages/shouye/shouye",
+        "text":"首页",
+        "iconPath": "/images/1.png",
+        "selectedIconPath": "/images/1.1.png"
+      },
+      {
+        "pagePath": "pages/jiaoxue/jiaoxue",
+        "text":"教学",
+        "iconPath": "/images/2.png",
+        "selectedIconPath": "/images/2.2.png"
+      },
+      {
+        "pagePath": "pages/keyan/keyan",
+        "text":"科研",
+        "iconPath": "/images/3.png",
+        "selectedIconPath": "/images/3.3.png"
+      },
+      {
+        "pagePath": "pages/zixun/zixun",
+        "text":"资讯",
+        "iconPath": "/images/4.png",
+        "selectedIconPath": "/images/4.4.png"
+      },
+      {
+        "pagePath": "pages/guanyu/guanyu",
+        "text":"关于",
+        "iconPath": "/images/5.png",
+        "selectedIconPath": "/images/5.5.png"
+      }
+    ]
+  }
+}
